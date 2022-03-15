@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Xiaofei-Wu-0d5abebc8ae1407480f0b29d7d157913',
+  rootNotionPageId: 'Xiaofei-Wu-e91d8861f31349609a107f28422da338',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴小飞的 个人博客',
-  domain: 'https://foil-comfort-d24.notion.site/Xiaofei-Wu-0d5abebc8ae1407480f0b29d7d157913',
+  domain: 'https://foil-comfort-d24.notion.site/Xiaofei-Wu-e91d8861f31349609a107f28422da338',
   author: '吴 小飞',
 
   // open graph metadata (optional)
